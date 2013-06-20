@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: app/views/layouts/_footer.html.erb
+    :cursor_offset: 353
+    :timestamp: 2013-06-20 23:15:37.456000 +03:00
+  - :path: app/views/layouts/_header.html.erb
+    :cursor_offset: 446
+    :timestamp: 2013-06-20 23:15:27.622000 +03:00
+  - :path: spec/support/utilities.rb
+    :cursor_offset: 175
+    :timestamp: 2013-06-20 23:30:31.218000 +03:00
+files_to_retain: 0
